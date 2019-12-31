@@ -5,8 +5,8 @@ plugin = Plugin()
 url1 = "https://lawfare.libsyn.com/rss" #LAWFARE
 url2 = "http://steptoecyber.libsyn.com/rss" #CYBERLAW
 url3 = "http://rationalsecurity.libsyn.com/rss" #RATIONALSECURITY
-url4 = "http://jihadologynet.libsyn.com/rss" #JIHADOLOGY
-url5 = "https://feeds.blubrry.com/feeds/national_security_law_podcast.xml" #NATSEC
+url4 = "https://jihadology-net.libsyn.com/rss" #JIHADOLOGY
+url5 = "http://www.nationalsecuritylawpodcast.com/feed/podcast/" #NATSEC
 url6 = "https://feed.pippa.io/public/shows/5d28ef74d3cc3f013778b13b" #THEREPORT
 @plugin.route('/')
 def main_menu():
